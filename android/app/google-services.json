@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178922466892",
+    "project_id": "mobileuas-23b1b",
+    "storage_bucket": "mobileuas-23b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178922466892:android:2f2bec5bef4ea8771fcee9",
+        "android_client_info": {
+          "package_name": "com.example.mobileiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJe4OmvFiRXwbNA2Fyxi1xSZFhTTXjrT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178922466892:android:47e139294be353e01fcee9",
+        "android_client_info": {
+          "package_name": "com.uas.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJe4OmvFiRXwbNA2Fyxi1xSZFhTTXjrT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
