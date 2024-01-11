@@ -66,8 +66,8 @@ class _LoginPageState extends State<Login> {
                               controller: _emailTextController,
                               decoration: InputDecoration(
                                 prefixIcon: Icon(Icons.person_outline_outlined),
-                                labelText : 'Username',
-                                hintText: 'Masukan Username',
+                                labelText : 'Email',
+                                hintText: 'Masukan Email',
                                 border: OutlineInputBorder(),
                               ),
                             ),
